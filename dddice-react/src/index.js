@@ -37,7 +37,7 @@ function App() {
         }
 
         dddice.current.roll([
-            { type: 'd20', theme: 'dddice-standard' }
+            { type: 'd20', theme: 'dddice-bees' }
         ]);
     }, [])
 
